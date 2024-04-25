@@ -8,7 +8,7 @@
             "imagenPerfil": "https://s3-alpha-sig.figma.com/img/79ca/5d93/806da2cb38b43ace6f2e15bc6c2f6da5?Expires=1714348800&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=aaISdc88JaaYMA1cb1LopDZOftji~pbDnJFjXX7wVZKdKZRVDpaUW9s1g7MkaI8Xe-Asja3ym34OqCtJs8h~cj-aGGC1xbqhL6dSMa3ntn--D2yMn5kD0hyje0-9delFS98So8KXjkQ~mVPc3Izb6wa8KCiiGvyjSLkn4w5exGZPJkG3OHQhCk4WWXb~RWkVUzr2OBu647rKP8BcJdr802K6420OkpTmOnR6iO94wslPPAPczNIb~ZfmYnwyU0rfmUO8OPpYwvqDj2-foofmyIukwYiOfUCSeTu3p3JcAhkQ~mA86vxoQ4obuXSl7kTpcwjJt0ZT9lhl2UHnXI0evg__",
             "imagenPost":"",
             "mensaje":"Hola mundo, Soy Lau",
-            "seguidas":["2", "5"]
+            "seguidas": 22
         },
         {
             "id": 2,
@@ -17,8 +17,8 @@
             "contraseña": "Cam123",
             "imagenPerfil": "https://nolae.es/cdn/shop/articles/das-sind-die-jungsten-k-pop-idols-werden-sie-immer-junger-462635_1200x732.jpg?v=1672843282",
             "imagenPost":"",
-            "mensaje":"Hola mundo, Soy Lau",
-            "seguidas":["2", "5"]
+            "mensaje":"Hola mundo, Soy Cami",
+            "seguidas": 50
         },
         {
             "id": 3,
@@ -27,8 +27,8 @@
             "contraseña": "Aleja123",
             "imagenPerfil": "https://s3-alpha-sig.figma.com/img/003c/8ad0/99550026ab88433c09d47f34757033d8?Expires=1714348800&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=kx8~YB4SE3BhweoxwxoNHrU1JwJEtGBZI1HjPUY~uAp2LdoAJCtnUcHfzoIN~mnIjYluOy3bvUWDL4Gj4r6IUmZnx4blh2R64rPwgjv-Jlr-hh9PD0s98rqBYKlBwXcpJAQQOFTeGKBq5w6vRbHtm1Ur8CRTLfeFe5FVxTd9zB99gQbWSg0-j6JU8XlAV9fj4LA7rD4R4wnEpxmDFzIJXVBR3PiztIc869XwpN4-5k~7Ody4OQ~6YZHj4-e-UBv9yVsGzK-LfWSLG22RAOHId-z36L0yJGbpLqWjHJm6XTEr4trMflpDYow1zZ4GjXew8pwfD5HmtF4eEuD0Zplxow__",
             "imagenPost":"",
-            "mensaje":"Hola mundo, Soy Lau",
-            "seguidas":["2", "5"]
+            "mensaje":"Hola mundo, Soy  Aleja",
+            "seguidas": 99
         },
         {
             "id": 4,
@@ -37,8 +37,8 @@
             "contraseña": "Pau123",
             "imagenPerfil": "https://s3-alpha-sig.figma.com/img/a208/07d1/3e02cef4d92835a574c05bb6ecf1276e?Expires=1714348800&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=ptO0lS0-pFRSB8BSQnJeGgsv2bJHrRZBqLIiMNMCErjoee-wuLsPQd9NJtVXhG7azxk96zTPEbtF51m99hkZ82R4rT5Vmg840vVhJqsxi4HRFsXzwm5BAl1tyil2-msxawd-kSeyEd~xTHOyHL5iDldJjSbUD8J0zBlZOJ9~2q-ZOKk85pLiBFi-oKsAnKY38ir8GS97qOuDcBmoIvU15hthtbNwQXygrxLQRJv74kl6C8ZvGPOHyaaJiVtB26ytq-nubQMIGjWNtL0gmkIW30uZUwV2o7JuJCN~FPyz4i-N9nswtap2vEerkRQIrplTjOCV42FH34eIZ4ByKFMgww__",
             "imagenPost":"",
-            "mensaje":"Hola mundo, Soy Lau",
-            "seguidas":["2", "5"]
+            "mensaje":"Hola mundo, Soy Paula",
+            "seguidas":59
         },
         {
             "id": 5,
@@ -47,8 +47,8 @@
             "contraseña": "Vale123",
             "imagenPerfil": "https://s3-alpha-sig.figma.com/img/70b4/a58a/3a932be47b695fc91bf8afef5bfe78f5?Expires=1714348800&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=GdcMe6YX2ql96xeQ9sZSTKes-ETZQisku~ekMRKH3nZ5umQDK6PeppsPbOdoq3imZw~iVmxgJBZqoPSPCJjYCrCzWfHk5kf1TjxAMoUiDceAKXGV0STceaLf8A8ah1hI02E64aOabjE2vyWV5baeiXm8N9niFayxZu9zlFCJ4-f2ftF1srvB8FSRUCHPauZtcMroqjizAMncmlSiSVELlRIeq4Vt2y4IWmHxLaEc-bdl91f32wkzJxtV7ceQEzGUHeeYcpDXomgFZGngSZ8fmHjoSZP4sH7cV9BML9MqXayHIDtQkNQ2h7G3wB07VZ~4Ie3fjUMXwWBFq-8Imq1pLQ__",
             "imagenPost":"",
-            "mensaje":"Hola mundo, Soy Lau",
-            "seguidas":["2", "5"]
+            "mensaje":"Hola mundo, Soy Valentina",
+            "seguidas": 35
         },
         {
             "id": 6,
@@ -57,8 +57,8 @@
             "contraseña": "Sara123",
             "imagenPerfil": "https://qph.cf2.quoracdn.net/main-qimg-1e817c8b2a42b9f39271aee871edfea3-lq",
             "imagenPost":"",
-            "mensaje":"Hola mundo, Soy Lau",
-            "seguidas":["2", "5"]
+            "mensaje":"Hola mundo, Soy Sarita",
+            "seguidas": 78
         }
   ],
    "publicaciones":[
